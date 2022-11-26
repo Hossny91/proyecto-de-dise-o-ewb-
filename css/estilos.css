@@ -368,3 +368,145 @@ header nav a.activo {
 	display: none;
 }
 }
+
+/* ---- ----- ----- Boton del nav ----- ----- ----- */
+.dropbtn {
+	font-family: 'Times New Roman', Times, serif;
+	background-color:  #202020;
+	color: #AAA;
+	padding: 12px;
+	font-weight: 600;
+	padding-right: 25px;
+	font-size: 30px;
+	border: none;
+	cursor: pointer;
+	text-decoration: none;
+	margin-right: 20px;
+	text-decoration: none;
+	font-size: x-large ;
+	
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+
+	background-color:  #202020;
+  }
+  
+  .dropdown {
+	position: relative;
+	display: inline-block;
+  }
+  
+  .dropdown-content {
+	display: none;
+	position: absolute;
+	min-width: 160px;
+	overflow: auto;
+	box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+	z-index: 1;
+  }
+  
+  .dropdown-content a {
+	color: #AAA;
+	padding: 5px 8px;
+	text-decoration: none;
+	display: block;
+  }
+  
+  /*.dropdown a:hover {background-color: rgb(255, 255, 255);}*/
+  
+  .show {display: block;}
+
+  .dropbtn1 {
+	font-family: 'Times New Roman', Times, serif;
+	background-color:  #202020;
+	color: #AAA;
+	padding: 12px;
+	font-weight: 600;
+	padding-right: 25px;
+	font-size: 30px;
+	border: none;
+	cursor: pointer;
+	text-decoration: none;
+	margin-right: 20px;
+	text-decoration: none;
+	font-size: x-large ;
+	
+  }
+  
+  .dropbtn1:hover, .dropbtn1:focus {
+
+	background-color:  #202020;
+  }
+  
+  .dropdown1 {
+	position: relative;
+	display: inline-block;
+  }
+  
+  .dropdown-content1 {
+	display: none;
+	position: absolute;
+	min-width: 160px;
+	overflow: auto;
+	box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+	z-index: 1;
+  }
+  
+  .dropdown-content1 a {
+	color: #AAA;
+	padding: 5px 8px;
+	text-decoration: none;
+	display: block;
+  }
+  
+  /*.dropdown a:hover {background-color: rgb(255, 255, 255);}*/
+  
+  .show {display: block;}
+
+  .dropbtn2 {
+	font-family: 'Times New Roman', Times, serif;
+	background-color:  #202020;
+	color: #AAA;
+	padding: 12px;
+	font-weight: 600;
+	padding-right: 25px;
+	font-size: 30px;
+	border: none;
+	cursor: pointer;
+	text-decoration: none;
+	margin-right: 20px;
+	text-decoration: none;
+	font-size: x-large ;
+	
+  }
+  
+  .dropbtn2:hover, .dropbtn2:focus {
+
+	background-color:  #202020;
+  }
+  
+  .dropdown2 {
+	position: relative;
+	display: inline-block;
+  }
+  
+  .dropdown-content2 {
+	display: none;
+	position: absolute;
+	min-width: 160px;
+	overflow: auto;
+	box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+	z-index: 1;
+  }
+  
+  .dropdown-content2 a {
+	color: #AAA;
+	padding: 5px 8px;
+	text-decoration: none;
+	display: block;
+  }
+  
+  /*.dropdown a:hover {background-color: rgb(255, 255, 255);}*/
+  
+  .show {display: block;}
